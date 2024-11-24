@@ -4,7 +4,6 @@ output:
   format: CSV
 working_dir: .
 file_size_limit: false
-strict: true
 sast:
   include:
     - .
